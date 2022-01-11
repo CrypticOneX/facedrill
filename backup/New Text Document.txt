@@ -1,0 +1,4 @@
+mysql 
+username: id2512675_ashutosh_99
+password: ghost_XxA782AdvZ200;'(9)
+db_name: id2512675_darknigh
